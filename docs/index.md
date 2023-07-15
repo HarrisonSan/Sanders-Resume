@@ -9,6 +9,7 @@ Aspiring Accountant with Data Science Skills
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/harrison-m-sanders/">LinkedIn</a>
 | <a href="https://github.com/HarrisonSan">GitHub</a>
+| <a href="Harrisonmsanders@gmail.com">Email</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -43,10 +44,9 @@ __Deli Assosicate__, Walmart
 
 `2019-2021`
 __Service Missionary__, Portland Oregon
-<!-- I would consider making this shorter/more breif. You could even seperate some points into more bullets. -->
-- Assisted the Mission President for a year by facilitating mission logistics and inventory, taught and trained other mission leaders and missionaries in groups up to 270. Responsible for setting up and running complex technical solutions to facilitate large in-person interactive gatherings with remote presenters. Also was a point person for technology, assisting with technical problems throughout the mission   
-- Assisted in leading a zone of missionaries of 18-25 individuals for nine months. Charged to coordinate missionary efforts with local church leaders and looking after the welfare, leading, training, and pace setting of those missionaries    
-- Assisted in leading a district of missionaries ranging from 10-12 individuals for a month and a half. Charged with the welfare, leading, training, and pace setting of those missionaries  
+- Assisted the Mission President for a year by facilitating mission logistics and inventory, taught and trained other mission leaders and missionaries in groups of up to 270. Responsible for setting up and running complex technical solutions to facilitate large in-person interactive gatherings with remote presenters. Also was a point person for technology, assisting with technical problems throughout the mission   
+- Assisted in leading a zone of missionaries of 18-25 individuals for nine months. Charged to coordinate missionary efforts with local church leaders and looking after the welfare, leading, training, and pace-setting of those missionaries    
+- Assisted in leading a district of missionaries ranging from 10-12 individuals for a month and a half. Charged with the welfare, leading, training, and pace-setting of those missionaries  
 - Taught others about the teachings of Jesus Christ for 2 years alongside leadership opportunities. I learned how to teach, communicate, and relate with people of all races, religions, and backgrounds 
 
 `2017-2019`
@@ -67,10 +67,14 @@ __Trainer, Team Member__, Chick-fil-a
 
 <!-- Consider adding a skills section -->
 ## Skills
+- Excel & VBA
+- Python
+- SQL
+- Organization
+- Template Design
 <!-- ### Footer
 
 <!-- Don't forget to update this -->
-Last updated: May 2013 -->
-Last updated: May 2013 -->
+Last updated: July 2023 -->
 
 
